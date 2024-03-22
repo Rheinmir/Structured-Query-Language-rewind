@@ -14,3 +14,4 @@ CREATE TABLE student (
 /* delete/drop database */
 DROP DATABASE rhein_php
 
+
