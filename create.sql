@@ -11,5 +11,6 @@ CREATE TABLE student (
     age int,
     address VARCHAR(200)
 )
-    
+/* delete/drop database */
+DROP DATABASE rhein_php
 
